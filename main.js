@@ -1,6 +1,17 @@
 /******************
  * YOUR CODE HERE *
  ******************/
+const myFirstName = 'Sharod';
+const myLastName = 'Bailey';
+const myBestFriend = 'Myself';
+const mySentence = 'I love Forex';
+const myFavoriteNum = 8;
+const myMentalAge = 65;
+const myHeight = 72;
+const myFavoriteYear = 2011;
+const mySum = 3+1918+21+1;
+const myProduct = 4992;
+const myHeightAndAge = 137;
 
 
  
