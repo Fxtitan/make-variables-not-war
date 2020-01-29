@@ -9,9 +9,9 @@ const myFavoriteNum = 8;
 const myMentalAge = 65;
 const myHeight = 72;
 const myFavoriteYear = 2011;
-const mySum = 3+1918+21+1;
-const myProduct = 4992;
-const myHeightAndAge = 137;
+const mySum = 3+1918+20-4+1+8;
+const myProduct = 232*43/2+4;
+const myHeightAndAge = 72+65;
 
 
  
